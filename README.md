@@ -15,7 +15,7 @@ Currently only supports the EOL subset of the language family.
 While EOL itself is a statement-oriented language that require every statement to be semicolon-terminated, IEpsilon is smart enough to realize that an expression need not be terminated with a semicolon to be valid.
 
 <div align="center">
-<img src="./ReadmeGIFs/EOL-semicolonInsertion.gif" alt="IEpsilon automatically understanding an expression without semicolon">
+![IEpsilon automagically inserts semicolons for you after the last expression entered](ReadmeGIFs/EOL-semicolonInsertion.gif)
 </div>
 
 <br/>
@@ -25,7 +25,7 @@ While EOL itself is a statement-oriented language that require every statement t
 If (and only if) IEpsilon detects no usage of the println() function, it automatically echoes the last expression to be evaluated.
 
 <div align="center">
-<img src="./ReadmeGIFs/Dashboard.gif" alt="Dashboard GIF">
+![IEpsilon understands when you have called println yourself and doesn't print on its own](ReadmeGIFs/EOL-println.gif)
 </div>
 
 ## 3- All of EOL 
@@ -33,6 +33,6 @@ If (and only if) IEpsilon detects no usage of the println() function, it automat
 IEpsilon is a fully-functional EOL kernel, maintaining the state of variables and defined operations across cell executions as is the standard.
 
 <div align="center">
-<img src="./ReadmeGIFs/Dashboard.gif" alt="Dashboard GIF">
+![IEpsilon supports all of EOL](ReadmeGIFs/EOL-state.gif)
 </div>
 
