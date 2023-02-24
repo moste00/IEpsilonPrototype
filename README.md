@@ -15,7 +15,7 @@ Currently only supports the EOL subset of the language family.
 While EOL itself is a statement-oriented language that require every statement to be semicolon-terminated, IEpsilon is smart enough to realize that an expression need not be terminated with a semicolon to be valid.
 
 <div align="center">
-<img src="./ReadmeGIFs/Dashboard.gif" alt="Dashboard GIF">
+<img src="./ReadmeGIFs/EOL-semicolonInsertion.gif" alt="IEpsilon automatically understanding an expression without semicolon">
 </div>
 
 <br/>
