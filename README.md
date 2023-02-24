@@ -23,15 +23,11 @@ While EOL itself is a statement-oriented language that require every statement t
 
 If (and only if) IEpsilon detects no usage of the println() function, it automatically echoes the last expression to be evaluated.
 
-<div align="center">
-![IEpsilon understands when you have called println yourself and doesn't print on its own](ReadmeGIFs/EOL-println.gif)
-</div>
+![IEpsilon understands when you have called println yourself and doesn't print on its own](https://user-images.githubusercontent.com/48567303/221294402-5d4b4804-12e9-4773-b503-8e9579cf3ebe.gif)
+
 
 ## 3- All of EOL 
 
 IEpsilon is a fully-functional EOL kernel, maintaining the state of variables and defined operations across cell executions as is the standard.
 
-<div align="center">
-![IEpsilon supports all of EOL](ReadmeGIFs/EOL-state.gif)
-</div>
-
+![IEpsilon supports all of EOL](https://user-images.githubusercontent.com/48567303/221294505-554ea352-1447-45ce-b773-70f0684301b0.gif)
