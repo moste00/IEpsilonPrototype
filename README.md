@@ -14,8 +14,8 @@ Currently only supports the EOL subset of the language family.
 
 While EOL itself is a statement-oriented language that require every statement to be semicolon-terminated, IEpsilon is smart enough to realize that an expression need not be terminated with a semicolon to be valid.
 
-<div align="center">
-![IEpsilon automagically inserts semicolons for you after the last expression entered](ReadmeGIFs/EOL-semicolonInsertion.gif)
+<div align="center">![IEpsilon automagically inserts semicolons for you after the last expression entered](https://user-images.githubusercontent.com/48567303/221292305-b7f77a98-cc32-4f17-b556-f0a950c68cf3.gif)
+
 </div>
 
 <br/>
