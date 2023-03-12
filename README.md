@@ -1,5 +1,5 @@
 <h1 align="center">
-  IEpsilon
+  IEpsilon, MDE made easy
 </h1>
 
 # Overview
